@@ -1,0 +1,153 @@
+header
+{
+ 	 	
+}
+.label1{
+background: #0b82e7;
+}
+.label2{
+background: #e3e860
+;
+}
+.label3{
+background: #e965db;
+}
+.label4{
+background: #eb5d82;
+}
+.label5{
+background: #5ae85a
+;
+}
+.label6{
+background: #8B0000
+;
+}
+.label7{
+background: #8A2BE2
+;
+}
+.label8{
+background: #FF0000
+;
+}
+.label9{
+background: #FFFF00
+;
+}
+.label10{
+background: #FF6347
+;
+}
+
+.dropdown1:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; // remove the gap so it doesn't close
+ } 	  	 
+
+.imagenchiquita
+{
+	max-width:80px;
+	max-height:100px; 
+}
+.imagenmediana
+{
+	width:200px;
+	height: 150px; 
+	font-color: #000000;
+}
+.imagengrande
+{
+	width:5000px;
+	max-height:250px;
+	 
+}
+.imagengrande1
+{
+	width:937px;
+	max-height:250px;
+	 
+}
+.color1
+{
+	color: #000000;
+	background: #000000;
+	
+	
+}
+.color2
+{
+	color:#FFFFFF;
+	background:#87CEFA;
+	
+}
+
+.btn1
+{
+	background: red
+}
+
+.letraGrande
+{
+	font-size: 4em;
+}
+.letraMediana
+{
+	font-size: 2em;
+	color: #FFFFFF;
+}
+.letraPequena
+{
+	font-size: 1em;
+}
+li1
+{
+  font-size: 2em;
+  color: #FDFEFE;
+}
+
+.a1
+{
+ font-size: 18px;
+ color: #FDFEFE;
+}
+.a2
+{
+ font-size: 18px;
+ 
+}
+
+.quitarfloat{
+	float: none
+}
+.header1 {
+    color: #36A0FF;
+    font-size: 27px;
+    padding: 10px;
+}
+
+.bigicon1 {
+    font-size: 35px;
+    color: #36A0FF;
+}
+html, body {    
+   height: 100%; 
+}
+
+.header2 {
+    color: 	#000000;
+    font-size: 18px;
+    padding: 10px;
+}
+.header3 {
+    color: 	#000000;
+    font-size: 30px;
+    padding: 10px;
+}
+.negro
+{
+	color: 	#FFFFFF;
+	background:#000000;
+}
+
+	 
